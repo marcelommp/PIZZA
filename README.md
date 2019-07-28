@@ -1,5 +1,5 @@
 Slice Typeface
-Marcelo Magalhães & Mirko Velimirovic
+Marcelo Magalhães
 
 ![Slice 04](https://github.com/marcelommp/PIZZA/blob/master/images/slice04.jpg)
 
